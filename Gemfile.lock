@@ -1,0 +1,17 @@
+GIT
+  remote: git://github.com/github/gemoji.git
+  revision: 4536894c48d91a886c73d4227865a56fd57ff061
+  specs:
+    gemoji (1.5.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gemoji!
+  rake
